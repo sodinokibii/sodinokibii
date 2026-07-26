@@ -9,6 +9,18 @@
   <img src="https://img.shields.io/github/followers/sodinokibii?label=Followers&style=flat&color=8B5CF6" alt="Followers" />
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
+</p>
+
+---
+
+### 🔭 Currently
+
+- 🚀 Working on **[Job Hunter AI](https://github.com/sodinokibii/Hhru-JobHunter)** — an AI-powered job search pipeline for HH.ru
+- 🌱 Sharpening backend & tooling skills across the .NET and Python ecosystems
+- 💬 Ask me about C#, Python or FastAPI
+
 ---
 
 ### 🛠 Tech stack
@@ -46,3 +58,22 @@
 ![Trophies](https://github-profile-trophy-eight.vercel.app/?username=sodinokibii&theme=radical&no-frame=true&row=1&column=6)
 
 </div>
+
+---
+
+### 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sodinokibii/sodinokibii/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sodinokibii/sodinokibii/output/snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/sodinokibii/sodinokibii/output/snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+### 📌 Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
