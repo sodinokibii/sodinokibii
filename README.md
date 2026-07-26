@@ -39,8 +39,8 @@
 ### 🚀 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sodinokibii&show_icons=true&theme=radical&count_private=true&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodinokibii&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=sodinokibii&show_icons=true&theme=radical&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=sodinokibii&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -49,6 +49,6 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sodinokibii&theme=radical&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy-eight.vercel.app/?username=sodinokibii&theme=radical&no-frame=true&row=1&column=6)
 
 </div>
