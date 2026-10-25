@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'SFMono-Regular',Menlo,monospace" width="1000px" height="530px" font-size="16px" role="img" aria-label="sodinokibii profile card">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; size-adjust: 109%; }
+text, tspan { white-space: pre; }
+.key { fill: #b31d28; }
+.value { fill: #0a3069; }
+.cc { fill: #afb8c1; }
+.accent { fill: #b91c1c; font-weight: bold; }
+.art { fill: #24292f; }
+/* Visible by default; the hidden state only exists while the animation runs. */
+.art, .row { animation: reveal 0.4s ease-out backwards; }
+.caret { fill: #b91c1c; animation: blink 1s steps(1) infinite; }
+@keyframes reveal { from { opacity: 0; } }
+@keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect x="0.5" y="0.5" width="999" height="529" fill="#f6f8fa" stroke="#d0d7de" rx="15"/>
+<text fill="#24292f">
+<tspan x="15" y="30" class="art" style="animation-delay:0.00s">   ,tC0880Ct;.     .ifi  .itLCLf1</tspan>
+<tspan x="15" y="50" class="art" style="animation-delay:0.04s"> ,C@@@@@@@@@@@8GGG8@C, iG@@0i</tspan>
+<tspan x="15" y="70" class="art" style="animation-delay:0.08s">:88G08@@@@@@@@@@@@@t  C@@@8,</tspan>
+<tspan x="15" y="90" class="art" style="animation-delay:0.12s">Li    .;1ttt1;i8@@f  t@@@@C</tspan>
+<tspan x="15" y="110" class="art" style="animation-delay:0.16s">             i@@@8.  0@@@@L</tspan>
+<tspan x="15" y="130" class="art" style="animation-delay:0.20s">            ;@@@@C  .@@@@@C</tspan>
+<tspan x="15" y="150" class="art" style="animation-delay:0.24s">            0@@@@G   @@@@@8</tspan>
+<tspan x="15" y="170" class="art" style="animation-delay:0.28s">           :@@@@@0   0@@@@@,</tspan>
+<tspan x="15" y="190" class="art" style="animation-delay:0.32s">           ;@@@@@@.  C@@@@@1</tspan>
+<tspan x="15" y="210" class="art" style="animation-delay:0.36s">           :@@@@@@:  t@@@@@f</tspan>
+<tspan x="15" y="230" class="art" style="animation-delay:0.40s">      :1tffC@@@@@@i  i@@@@@L</tspan>
+<tspan x="15" y="250" class="art" style="animation-delay:0.44s">    .G@@@@@@@@@@@@t  ;@@@@@L</tspan>
+<tspan x="15" y="270" class="art" style="animation-delay:0.48s">     ...:1C@@@@@@@f  :@@@@@1</tspan>
+<tspan x="15" y="290" class="art" style="animation-delay:0.52s">           ;@@@@@@L  ;@@@@@,</tspan>
+<tspan x="15" y="310" class="art" style="animation-delay:0.56s">        ,:::G@@@@@t  1@@@@f</tspan>
+<tspan x="15" y="330" class="art" style="animation-delay:0.60s">       L8@@@@@@@@@;  G@@@G</tspan>
+<tspan x="15" y="350" class="art" style="animation-delay:0.64s">         :10@@@@@8  i@@@L.</tspan>
+<tspan x="15" y="370" class="art" style="animation-delay:0.68s">            L@@@@1 ,8@0;</tspan>
+<tspan x="15" y="390" class="art" style="animation-delay:0.72s">            ;@@@L :8@t.</tspan>
+<tspan x="15" y="410" class="art" style="animation-delay:0.76s">            L@@C.t@C,,;1tffft1;.</tspan>
+<tspan x="15" y="430" class="art" style="animation-delay:0.80s">           i@@L10@8C8@@@@@@@@@@@8L1,   ,</tspan>
+<tspan x="15" y="450" class="art" style="animation-delay:0.84s">          t@@@@@@@@@@@@@@@@@@@@@@@@@0LGf</tspan>
+<tspan x="15" y="470" class="art" style="animation-delay:0.88s">        ;0@@8GLft1i;;;i1tLG8@@@@@@@@@L,</tspan>
+<tspan x="15" y="490" class="art" style="animation-delay:0.92s">      iG0fi,                ,1C@@@@C:</tspan>
+<tspan x="15" y="510" class="art" style="animation-delay:0.96s">    :L1,                       .1f;</tspan>
+</text>
+<text fill="#24292f">
+<tspan class="row" style="animation-delay:0.30s"><tspan x="425" y="30" class="accent">sodinokibii@github</tspan> <tspan class="cc">---------------------------------------</tspan></tspan>
+<tspan class="row" style="animation-delay:0.35s"><tspan x="425" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Windows 11, Linux</tspan></tspan>
+<tspan class="row" style="animation-delay:0.40s"><tspan x="425" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">1 year, 8 months, 20 days</tspan></tspan>
+<tspan class="row" style="animation-delay:0.45s"><tspan x="425" y="90" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Windows NT internals</tspan></tspan>
+<tspan class="row" style="animation-delay:0.50s"><tspan x="425" y="110" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">PowerShell, bash</tspan></tspan>
+<tspan class="row" style="animation-delay:0.55s"><tspan x="425" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Visual Studio, VS Code</tspan></tspan>
+<tspan class="row" style="animation-delay:0.60s"><tspan x="425" y="150" class="cc">. </tspan></tspan>
+<tspan class="row" style="animation-delay:0.65s"><tspan x="425" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">C++, C, Python, x86-64 asm</tspan></tspan>
+<tspan class="row" style="animation-delay:0.70s"><tspan x="425" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Russian, English</tspan></tspan>
+<tspan class="row" style="animation-delay:0.75s"><tspan x="425" y="210" class="cc">. </tspan></tspan>
+<tspan class="row" style="animation-delay:0.80s"><tspan x="425" y="230" class="cc">. </tspan><tspan class="key">Tools</tspan>.<tspan class="key">Reversing</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">IDA Pro, Ghidra, x64dbg, WinDbg</tspan></tspan>
+<tspan class="row" style="animation-delay:0.85s"><tspan x="425" y="250" class="cc">. </tspan><tspan class="key">Tools</tspan>.<tspan class="key">Runtime</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Frida, Process Monitor, Wireshark</tspan></tspan>
+<tspan class="row" style="animation-delay:0.90s"><tspan x="425" y="270" class="cc">. </tspan><tspan class="key">Tools</tspan>.<tspan class="key">Build</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">CMake, MSBuild, WDK</tspan></tspan>
+<tspan class="row" style="animation-delay:0.95s"><tspan x="425" y="290" class="accent">- Current Case</tspan> <tspan class="cc">-------------------------------------------</tspan></tspan>
+<tspan class="row" style="animation-delay:1.00s"><tspan x="425" y="310" class="cc">. </tspan><tspan class="key">Case</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">lbp810_capt</tspan></tspan>
+<tspan class="row" style="animation-delay:1.05s"><tspan x="425" y="330" class="cc">. </tspan><tspan class="key">Evidence</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Canon LBP-810 -&gt; Windows 11</tspan></tspan>
+<tspan class="row" style="animation-delay:1.10s"><tspan x="425" y="350" class="cc">. </tspan><tspan class="key">Verdict</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">solved, it prints</tspan></tspan>
+<tspan class="row" style="animation-delay:1.15s"><tspan x="425" y="370" class="accent">- GitHub Stats</tspan> <tspan class="cc">-------------------------------------------</tspan></tspan>
+<tspan class="row" style="animation-delay:1.20s"><tspan x="425" y="390" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> . </tspan><tspan class="value">2 {Contributed: 0}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">1</tspan></tspan>
+<tspan class="row" style="animation-delay:1.25s"><tspan x="425" y="410" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">2</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">0</tspan></tspan>
+<tspan class="row" style="animation-delay:1.30s"><tspan x="425" y="430" class="accent">&gt; </tspan><tspan class="value">every binary has a motive</tspan><tspan class="caret">_</tspan></tspan>
+</text>
+</svg>
