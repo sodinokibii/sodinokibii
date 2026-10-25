@@ -62,7 +62,7 @@ text, tspan { white-space: pre; }
 <tspan class="row" style="animation-delay:1.10s"><tspan x="425" y="350" class="cc">. </tspan><tspan class="key">Verdict</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">solved, it prints</tspan></tspan>
 <tspan class="row" style="animation-delay:1.15s"><tspan x="425" y="370" class="accent">- GitHub Stats</tspan> <tspan class="cc">-------------------------------------------</tspan></tspan>
 <tspan class="row" style="animation-delay:1.20s"><tspan x="425" y="390" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> . </tspan><tspan class="value">2 {Contributed: 0}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">1</tspan></tspan>
-<tspan class="row" style="animation-delay:1.25s"><tspan x="425" y="410" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">3</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">0</tspan></tspan>
+<tspan class="row" style="animation-delay:1.25s"><tspan x="425" y="410" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">4</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">0</tspan></tspan>
 <tspan class="row" style="animation-delay:1.30s"><tspan x="425" y="430" class="accent">&gt; </tspan><tspan class="value">every binary has a motive</tspan><tspan class="caret">_</tspan></tspan>
 </text>
 </svg>
