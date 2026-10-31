@@ -45,7 +45,7 @@ text, tspan { white-space: pre; }
 <text fill="#c9d1d9">
 <tspan class="row" style="animation-delay:0.30s"><tspan x="425" y="30" class="accent">sodinokibii@github</tspan> <tspan class="cc">---------------------------------------</tspan></tspan>
 <tspan class="row" style="animation-delay:0.35s"><tspan x="425" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Windows 11, Linux</tspan></tspan>
-<tspan class="row" style="animation-delay:0.40s"><tspan x="425" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">1 year, 8 months, 25 days</tspan></tspan>
+<tspan class="row" style="animation-delay:0.40s"><tspan x="425" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">1 year, 8 months, 26 days</tspan></tspan>
 <tspan class="row" style="animation-delay:0.45s"><tspan x="425" y="90" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Windows NT internals</tspan></tspan>
 <tspan class="row" style="animation-delay:0.50s"><tspan x="425" y="110" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">PowerShell, bash</tspan></tspan>
 <tspan class="row" style="animation-delay:0.55s"><tspan x="425" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Visual Studio, VS Code</tspan></tspan>
